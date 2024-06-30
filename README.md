@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ezeigbo Emmanuel</h1>
-<h3 align="center">A passionate frontend developer in Nigeria</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezeigboemmanuel&label=Profile%20views&color=0e75b6&style=flat" alt="ezeigboemmanuel" /> </p>
 
 
-- 🌱 I’m currently learning **ReactJS, NextJS & Typescript**
+- 🌱 I’m currently learning **NextJS & Typescript**
 
 - 👯 I’m looking to collaborate on **a ReactJS or NextJS project**
 - 👨‍💻 I also write about my projects at [https://thecodinglord.com.ng](https://thecodinglord.com.ng)
@@ -14,11 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/ezecreativity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ezecreativity" height="30" width="40" /></a>
 <a href="https://twitter.com/thecodinglord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thecodinglord" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ezeigboemmanuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ezeigboemmanuel" height="30" width="40" /></a>
-<a href="https://web.facebook.com/charles.ezeigbo.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emmanuel ezeigbo" height="30" width="40" /></a>
-<a href="https://instagram.com/emmanuel.ezeigbo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emmanuel.ezeigbo" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/talkless programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="talkless programmer" height="30" width="40" /></a>
 </p>
 
