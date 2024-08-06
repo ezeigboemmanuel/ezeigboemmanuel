@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://x.com/zgbocode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thecodinglord" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ezeigbo-emmanuel-88393a202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ezeigboemmanuel" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/talkless programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="talkless programmer" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@emmanuelezeigbo659" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="talkless programmer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
