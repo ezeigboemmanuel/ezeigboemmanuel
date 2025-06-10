@@ -5,11 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=ezeigboemmanuel&label=Profile%20views&color=0e75b6&style=flat" alt="ezeigboemmanuel" />
 </p>
 
-- 👨‍💻 I'm a **MERN stack developer** with a strong focus on **Next.js** and modern frontend technologies  
+- 👨‍💻 I'm a **MERN stack developer** with a strong focus on **Next.js** and modern web technologies  
 - 🎓 Studying **Computer Science** at the **University of Nigeria, Nsukka (UNN)**  
-- 📚 I'm also an **author** — check out my books on [Amazon](https://www.amazon.com/stores/Emmanuel-Ezeigbo/author/B0D1DH6SYY?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true&ccs_id=5bdac9ef-a18c-46dd-8cbc-678e5987568b)  
-- 📹 I share tech tutorials, dev tips, and career insights on my [YouTube channel](https://www.youtube.com/@emmanuelezeigbo659)  
-- 📝 I write about tech and projects at [thecodinglord.com.ng](https://thecodinglord.com.ng)  
+- 📚 I'm also an **author**, check out my books on [Amazon](https://www.amazon.com/stores/Emmanuel-Ezeigbo/author/B0D1DH6SYY?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true&ccs_id=5bdac9ef-a18c-46dd-8cbc-678e5987568b)  
+- 📹 I share full programming tutorials on my [YouTube channel](https://www.youtube.com/@emmanuelezeigbo659)  
 - 📫 You can reach me at **ezeigboemmanuel2@gmail.com**
 
 
