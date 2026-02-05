@@ -1,66 +1,51 @@
-<h1 align="center">Hi 👋, I'm Ezeigbo Emmanuel</h1>
-<h3 align="center">Full Stack Developer | Next.js Expert | Author | CS Student @ UNN</h3>
+# Hi, I'm Emmanuel 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ezeigboemmanuel&label=Profile%20views&color=0e75b6&style=flat" alt="ezeigboemmanuel" />
-</p>
+📍 **Remote** | 🛠️ **Product Engineer** | 🎓 **CS @ UNN**
 
-- 👨‍💻 I'm a **MERN stack developer** with a strong focus on **Next.js** and modern web technologies  
-- 🎓 Studying **Computer Science** at the **University of Nigeria, Nsukka (UNN)**  
-- 📚 I'm also an **author**, check out my books on [Amazon](https://www.amazon.com/stores/Emmanuel-Ezeigbo/author/B0D1DH6SYY?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true&ccs_id=5bdac9ef-a18c-46dd-8cbc-678e5987568b)  
-- 📹 I share full programming tutorials on my [YouTube channel](https://www.youtube.com/@emmanuelezeigbo659)  
-- 📫 You can reach me at **ezeigboemmanuel2@gmail.com**
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Convex](https://img.shields.io/badge/-Convex-EE342F?style=flat-square&logo=convex&logoColor=white)
 
+> Focused on building high-impact products and exploring the modern web stack. Currently balancing Computer Science studies at University of Nigeria, Nsukka with rapid product engineering.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://x.com/zgbocode" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter - zgbocode" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/ezeigbo-emmanuel-88393a202" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@emmanuelezeigbo659" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube - Emmanuel Ezeigbo" height="30" width="40" />
-  </a>
-</p>
+⚡ **[kwizspark.com](https://www.kwizspark.com)** – Quiz platform serving 5,000+ active users with 80K+ page views.
 
+## Current Projects
 
-<h3 align="left">Tech Stack:</h3>
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
-  </a>
-</p>
+- 🦔 **[HogMini](https://github.com/ezeigboemmanuel/HogMini)** - Feature flag management infrastructure for modern apps.
+- 🎞️ **[TubeFrames](https://github.com/ezeigboemmanuel/TubeFrames)** - Streamlining video frame extraction and processing.
+- ⚡ **[KwizSpark](https://www.kwizspark.com)** - Engaging quiz platform with an average engagement time of 19m 40s.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezeigboemmanuel&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+## GitHub Activity
 
-<br/><br/><br/>
+![GitHub Contribution Graph](https://ghchart.rshah.org/ezeigboemmanuel)
 
+## What I'm Doing
+
+- **Building in Public** - Scaling KwizSpark and developing HogMini to simplify developer workflows.
+- **Deep Diving into TypeScript** - Ensuring type-safety across the full stack with Next.js and Convex.
+- **Content Creation** - Growing a community of 1.05k+ subscribers on YouTube through technical sharing.
+- **Academic Research** - Finalizing my Computer Science degree at UNN.
+
+## Connect
+
+[![Twitter](https://img.shields.io/badge/-@zgbocode-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/zgbocode)
+[![YouTube](https://img.shields.io/badge/-Emmanuel_Ezeigbo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@emmanuelezeigbo659)
+[![LinkedIn](https://img.shields.io/badge/-Emmanuel_Ezeigbo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-ezeigbo)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ezeigboemmanuel)
+
+---
+
+### Recognition & Stats
+
+- **KwizSpark:** 5,000+ active users and 80K+ total page views.
+- **YouTube:** 1.05k+ subscribers focused on development and engineering.
+- **Academic:** Pursuing B.Sc. in Computer Science at University of Nigeria, Nsukka.
+
+### Philosophy
+
+> "Focus on the product, the code follows." I believe in building tools that people actually use.
