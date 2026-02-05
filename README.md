@@ -27,7 +27,6 @@
 ## What I'm Doing
 
 - **Building in Public** - Scaling KwizSpark and developing HogMini to simplify developer workflows.
-- **Deep Diving into TypeScript** - Ensuring type-safety across the full stack with Next.js and Convex.
 - **Content Creation** - Growing a community of 1.05k+ subscribers on YouTube through technical sharing.
 - **Academic Research** - Finalizing my Computer Science degree at UNN.
 
